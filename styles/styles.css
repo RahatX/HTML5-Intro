@@ -1,0 +1,18 @@
+nav li{
+    list-style: none;
+    display: inline;
+    margin-right: 15px;
+}
+nav li:hover{
+    background-color: antiquewhite;
+}
+nav li a{
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+}
+figure img{
+    width: 100%;
+    height: 100%;
+}
